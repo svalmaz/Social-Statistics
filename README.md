@@ -114,6 +114,74 @@ Mental health impact distribution.
 ## Discussion
 The results of this study highlight several important insights into social network usage patterns and their perceived effects on mental health.
 
+---# Social Networks and Their Impact: Study Overview
+
+## 1. Dependency on Social Networks
+This study explored the level of dependency users have on social networks. Key findings include:
+- **60%** of respondents feel "Sometimes" dependent on social networks.
+- **30%** indicated no dependency at all.
+
+Social networks appear to be habitual but not indispensable for many. Occasional dependency suggests their role in fostering social connections and providing information.
+
 ---
+
+## 2. Stress and Mental Health
+Stress associated with social network use is relatively low:
+- Most respondents reported "Never" or "Rarely" experiencing stress.
+- **25%** experienced occasional stress due to factors such as:
+  - Negative interactions.
+  - Overwhelming content.
+  - Unrealistic comparisons.
+
+### Mental Health Impact Distribution:
+- **54.9%** reported a neutral impact on mental health.
+- **15.7%** experienced a somewhat positive impact, citing support, entertainment, or engagement.
+- **7.8%** noted negative impacts, such as anxiety or reduced self-esteem.
+
+---
+
+## 3. Popularity of Social Networks
+The study highlights preferences among social network users:
+- **Instagram** was the most popular platform, valued for its visual content and interactive features (e.g., stories, reels).
+- **TikTok** was especially popular among younger users for its short-form content.
+- **Facebook** and **YouTube** maintained smaller but steady user bases, reflecting their ongoing relevance.
+
+---
+
+## Recommendations
+Based on these findings, the following recommendations are proposed:
+1. **Promote Digital Literacy:** Educate users on managing screen time and reducing addictive patterns.
+2. **Encourage Positive Interactions:** Platforms should minimize negative interactions and promote supportive, engaging content.
+3. **Balance Content:** Encourage users to consume a mix of entertaining, educational, and social content for better mental well-being.
+
+---
+
+## Limitations
+- **Sample Size:** The small respondent pool (52 participants) limits the generalizability of findings.
+- **Self-Reporting Bias:** Participants’ responses may reflect self-perception rather than objective usage patterns.
+
+Future research should address these limitations by including larger, more diverse samples and exploring user demographics (e.g., age, occupation, geography).
+
+---
+
+## Conclusion
+Social networks play a vital but not overwhelming role in users’ lives. Most users report moderate dependency and low stress levels, suggesting effective management of their interactions. Platforms like Instagram and TikTok dominate due to their engaging content formats.
+
+While social media can positively impact mental health, offering entertainment and connection, a small proportion of users report negative effects, emphasizing the need for healthier digital habits.
+
+### Key Takeaways:
+- Raise awareness about responsible social media usage.
+- Provide tools to help users balance their digital consumption.
+- Conduct further studies to explore specific aspects of social media use.
+
+---
+
+## References
+- [Python Software Foundation](https://www.python.org/). Python Programming Language.
+- [pandas Documentation](https://pandas.pydata.org/). Data manipulation in Python.
+- [Matplotlib](https://matplotlib.org/). Data visualization in Python.
+- [Seaborn](https://seaborn.pydata.org/). Statistical visualization library.
+- [SciPy](https://scipy.org/). Scientific computing tools.
+
 
 
