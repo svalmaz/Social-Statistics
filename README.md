@@ -197,7 +197,7 @@ Before running the program, ensure you have the following installed:
 ### Installation
 1. Clone the repository to your local machine:
    ```bash
-   [git clone https://github.com/your-repository/social-networks-analysis.git
-   cd social-networks-analysis](https://github.com/svalmaz/Social-Statistics.git)
+   git clone https://github.com/your-repository/social-networks-analysis.git
 2. Install the required dependencies:
-   ```pip install -r requirements.txt```
+   ```bash
+   pip install -r requirements.txt
