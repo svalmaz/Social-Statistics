@@ -110,11 +110,12 @@ This suggests that, for most users, social networks are neither strongly benefic
 
 Mental health impact distribution. 
 
+---
+
 ![image](https://github.com/user-attachments/assets/a650a858-9f88-4f9f-95ae-a0bb0d3546be)
 ## Discussion
 The results of this study highlight several important insights into social network usage patterns and their perceived effects on mental health.
 
----# Social Networks and Their Impact: Study Overview
 
 ## 1. Dependency on Social Networks
 This study explored the level of dependency users have on social networks. Key findings include:
