@@ -50,3 +50,4 @@ Python and its libraries were used for analysis:
 - **scipy**: Statistical calculations
 
 ---
+<img width="426" alt="image" src="https://github.com/user-attachments/assets/1bb6db72-7ec2-4ad2-b66e-8b6088d0966b">
