@@ -1,6 +1,6 @@
-#Statistical Analysis of Social Network Usage Patterns
+# Statistical Analysis of Social Network Usage Patterns
 
-##Abstract
+## Abstract
 This project investigates social network usage patterns and their potential impact on users' daily lives and mental health. Data were collected from 52 respondents via a Google Forms survey, covering variables such as age, time spent on social networks, primary purposes, and mental health effects. The study employed Python for statistical analysis and data visualization, including descriptive statistics, distribution analysis, and graphical representation. Key findings reveal that the majority of respondents are aged 18-24 years, with Instagram being the most popular social network. Most respondents spend 1-4 hours daily on social media, and some report feelings of dependency or occasional stress related to their usage. The study highlights the importance of understanding social network behavior to improve mental health awareness and guide further research. Limitations include a small sample size and potential response biases.
 
 Introduction
