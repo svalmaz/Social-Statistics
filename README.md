@@ -201,3 +201,11 @@ Before running the program, ensure you have the following installed:
 2. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
+## Running the Program
+1. Place the dataset (CSV file) in the ```data/``` directory. The dataset file should be named ```data.csv```. A sample dataset is included in the repository.
+2. Run the main analysis script:
+   ```bash
+   python main.py
+3. The program will:
+   - **Load and process the dataset.**
+   - **Generate visualizations of the findings.**
