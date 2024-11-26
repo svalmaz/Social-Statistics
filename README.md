@@ -183,5 +183,21 @@ While social media can positively impact mental health, offering entertainment a
 - [Seaborn](https://seaborn.pydata.org/). Statistical visualization library.
 - [SciPy](https://scipy.org/). Scientific computing tools.
 
+## How to Run the Program
 
+### Prerequisites
+Before running the program, ensure you have the following installed:
+- **Python 3.9+**: [Download here](https://www.python.org/)
+- **pip**: Installed with Python.
+- Required Python packages:
+  - `pandas`
+  - `matplotlib`
+  
 
+### Installation
+1. Clone the repository to your local machine:
+   ```bash
+   [git clone https://github.com/your-repository/social-networks-analysis.git
+   cd social-networks-analysis](https://github.com/svalmaz/Social-Statistics.git)
+2. Install the required dependencies:
+   ```pip install -r requirements.txt```
